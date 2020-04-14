@@ -10,9 +10,9 @@ currently in process.*
 
 Each type of part we are looking to produce is each in it's own directory:
 
-[Face Shield Headband](https://github.com/make4covidstack/Production/blob/master/images/prusa_headband.jpg?raw=true)
+[Face Shield Headband](https://github.com/make4covidstack/Production/face-shield-headband)
 
-![Face Shield Headband](https://github.com/make4covidstack/Production/blob/master/images/face_mask_buckle.jpg?raw=true)
+![Face Shield Headband](https://github.com/make4covidstack/Production/blob/master/images/prusa_headband.jpg?raw=true)
 
 [Face Mask Buckle](https://github.com/make4covidstack/Production/face-mask-buckle)
 
