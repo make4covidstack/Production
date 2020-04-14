@@ -9,7 +9,7 @@ Please select what to print from the following guide:
 - Can you only print PLA? Print the [RC2 band](https://github.com/make4covidstack/Production/face-shield-headband/RC2)
 - Otherwise, please print the [RC3 band](https://github.com/make4covidstack/Production/face-shield-headband/RC3)
 
-Need a starting point?  Check out our [print setting recommendations](https://github.com/make4covidstack/Production/face-shield-headband/settings-recommendations.md)
+Need a starting point?  Check out our [print setting recommendations](https://github.com/make4covidstack/Production/blob/master/face-shield-headband/settings-recommendations.md)
 
 ## Important Notes:
 Stacks are coming! While Prusa can do it, it is very hard on printers and we would like to keep people's printers running long-term.
