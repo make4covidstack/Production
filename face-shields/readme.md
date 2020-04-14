@@ -1,6 +1,6 @@
 # Face Shields
 
-** Please do not make these unless specifically requested.**
+** Please do not make these unless specifically requested. **
 
 Makers are not to produce fully assembled face shields.  All parts will be cleaned and assembled at hospitals.
 
